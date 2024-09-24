@@ -16,3 +16,12 @@ The C++ rendering library for [Khronos glTF 2.0 format](https://github.com/Khron
 
 &bull; Stained Glass Lamp
 <p><img src="./images/lamp.gif" alt="lamp"></p>
+
+## Features
+- [x] PBR direct lightning
+- [ ] IBL lightning
+- [ ] GLTF Extensions
+- [ ] Test models validation
+- [ ] Camera controls
+- [ ] API public interface
+- [ ] Screen passes
